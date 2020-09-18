@@ -1,6 +1,12 @@
 ## ChallengeWeek1
 This repository contains the solutions to the Challenge Week 1.
 
+### To run the file second time, run these commands:
+sudo userdel james
+sudo groupdel bankgroup
+rm run.sh
+
+Then, execute the ./solutions.sh file.
 
 ### What was the challenge?
 The challenge was to write bash scripts that does the following tasks:
