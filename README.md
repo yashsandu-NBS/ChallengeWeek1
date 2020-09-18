@@ -22,7 +22,7 @@ The challenge was to write bash scripts that does the following tasks:
 Essentially, you are creating an automated script that has a set of commands to create the user,  group and join the user to group and set permissions and finally print out a message from another user's account. For example, I have created a user called james from my default account that runs a script file called run.sh to display the message Heelo World!
 
 ### How I expected the challenge to go.
-The challenge was super fun, engaging but also a little challenging in the end. I had great fun took longer than anticipated. If more time than would have completed the bonus task.
+The challenge was super fun, engaging but also a little challenging in the end. I had great fun took longer than anticipated. If more time than would have completed the bonus task. The permissions part of the task took longer than expected too, assigning the user to the group and understanding the concepts behind it. 
 
 ### What went well?
 It was easy to understand what was required. The task started of on a easy note and then slowly got harder. The task pushes you hard to know and understand the concepts really well given on the QA community. 
